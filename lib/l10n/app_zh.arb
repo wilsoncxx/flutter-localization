@@ -1,0 +1,15 @@
+{
+    "homePage": "首页",
+    "personalInformation": "个人资料",
+    "name": "姓名",
+    "nameHint": "输入您的姓名",
+    "email": "邮箱",
+    "emailHint": "输入您的邮箱",
+    "dateOfBirth": "生日日期",
+    "requiredField": "必填",
+    "submitInfo": "提交",
+    "aboutUs": "关于",
+    "settings": "设置",
+    "changeLanguage": "更换语言",
+    "about": "这是一个用来测试语言更换功能的程序"
+    }

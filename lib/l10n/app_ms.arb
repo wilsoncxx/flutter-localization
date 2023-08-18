@@ -1,0 +1,15 @@
+{
+    "homePage": "Laman Utama",
+    "personalInformation": "Maklumat peribadi",
+    "name": "Nama",
+    "nameHint": "Isikan nama anda",
+    "email": "Emel",
+    "emailHint": "Isikan emel anda",
+    "dateOfBirth": "Tarikh lahir",
+    "requiredField": "Medan Diperlukan",
+    "submitInfo": "Hantar",
+    "aboutUs": "Tentang Kami",
+    "settings": "Tetapan",
+    "changeLanguage": "Tukar Bahasa",
+    "about": "Aplikasi ini adalah untuk menguji fungsi perubahan bahasa"
+    }
